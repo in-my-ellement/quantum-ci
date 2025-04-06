@@ -1,0 +1,5 @@
+qiskit >= 1.4.0
+qiskit-aer >= 0.16.1
+
+matplotlib >= 3.10.1
+pylatexenc >= 2.10
